@@ -6,7 +6,7 @@ Python samples from my courses
 <br />
 
 
-<h2>Languages</h2>
+<h2>Language/Library</h2>
 
 - <b>Python Anaconda</b> 
 - <b>matlibplot</b>
@@ -19,31 +19,48 @@ Python samples from my courses
 
 <p align="center">
 Basketball stats Project: <br/>
-<img src="[[[https://i.imgur.com/BBall1.png](https://imgur.com/a/CHjjYT4)](https://imgur.com/N7DIvmj)](https://imgur.com/N7DIvmj)" height="80%" width="80%"/>
+![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall1.png)
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall2.png)
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall3.png)
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall4.png)
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall5.png)
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall6.png)
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall7.png)
+<br />
+<br />
+ ![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall8.png)
+<br />
+<br />
+ ![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall9.png)
+<br />
+<br />
+ ![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall10.png)
+<br />
+<br />
+ ![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall11.png)
+<br />
+<br />
+ ![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall12.png)
+<br />
+<br />
+ ![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall13.png)
+<br />
+<br />
+ ![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall14.png)
+<br />
+<br />
 </p>
 
 <!--
