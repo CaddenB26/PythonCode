@@ -19,7 +19,7 @@ Python samples from my courses
 
 <p align="center">
 Basketball stats Project: <br/>
-![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall1.png)
+![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall1.png?raw=true)
 <br />
 <br />
 ![image alt](https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall2.png)
