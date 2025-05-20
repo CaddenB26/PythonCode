@@ -77,22 +77,22 @@ Anaconda: <br/>
 <br />
 <br />
  Python Code: <br/>
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall1.png" />
+<img src="https://github.com/CaddenB26/PythonCode/blob/a5601fa4dc8c66a0a8a638151df4bb3e8a3e7dd1/Python.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall2.png" />
+<img src="https://github.com/CaddenB26/PythonCode/blob/a5601fa4dc8c66a0a8a638151df4bb3e8a3e7dd1/Python1.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall3.png" />
+<img src="https://github.com/CaddenB26/PythonCode/blob/a5601fa4dc8c66a0a8a638151df4bb3e8a3e7dd1/Python2.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall4.png" />
+<img src="https://github.com/CaddenB26/PythonCode/blob/a5601fa4dc8c66a0a8a638151df4bb3e8a3e7dd1/Python3.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall5.png" />
+<img src="https://github.com/CaddenB26/PythonCode/blob/a5601fa4dc8c66a0a8a638151df4bb3e8a3e7dd1/Python4.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall6.png" />
+<img src="https://github.com/CaddenB26/PythonCode/blob/a5601fa4dc8c66a0a8a638151df4bb3e8a3e7dd1/Python5.png" />
 <br />
 <br />
 </p>
